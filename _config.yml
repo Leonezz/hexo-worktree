@@ -107,6 +107,7 @@ deploy:
   type: git
   repo: 
     tencent: git@zhuwenq.icu:/home/git/blog.git
+    github: git@github.com:Leonezz/Leonezz.github.io.git
   branch: master
 
 
